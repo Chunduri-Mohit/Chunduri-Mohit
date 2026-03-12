@@ -1,5 +1,5 @@
 <a href="https://github.com/Chunduri-Mohit" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohit%20Chunduri&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohit%20Chunduri&fontSize=40&fontColor=ffffff"/>
 </a>
 
 <h1 align="center">Hi there, I'm Mohit Chunduri 👋</h1>
@@ -86,19 +86,16 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chunduri-Mohit&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Chunduri-Mohit&theme=tokyonight&no-frame=true&margin-w=4"/>
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 📈 GitHub Activity Graph
 
-- 🔹 Building **AI and Cybersecurity tools**
-- 🔹 Learning **Cloud and DevOps technologies**
-- 🔹 Contributing to **Open Source projects**
-- 🔹 Developing **AI-powered applications**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chunduri-Mohit&theme=tokyo-night"/>
+</p>
 
 ---
 
